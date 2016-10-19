@@ -21,3 +21,5 @@ This is a simple form combining HTML input with PHP using POST method.
 </div>
 
 <?php include 'footer.php'; ?>
+
+// Try to get this message back!
