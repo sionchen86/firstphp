@@ -28,3 +28,5 @@ echo "<p>It took $flipcount flips!</p>";
 </p>
 </div>
 <?php include 'footer.php'; ?>
+
+This was added from Github
