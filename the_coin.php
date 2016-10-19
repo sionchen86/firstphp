@@ -4,7 +4,6 @@
 </div>
 <div class=textblock>
 <p>This program demonstrates a simple while loop. It will keep trying to flip a coin until it achieves three consecutive heads. Additionally, it will announce how many flips it took.</p>
-Staging mode differences.
 <?php
 $headcount = 0;
 $flipcount = 0;
