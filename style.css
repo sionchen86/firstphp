@@ -1,0 +1,45 @@
+body {
+background-color: #b8e2cd;
+color: #444444;
+font-family: 'Dosis', sans-serif;
+max-width: 800px;
+margin: auto;
+}
+
+#footer {
+margin-bottom: 1em;
+background-color: #ffffff;
+border-radius: 25px;
+padding-left: 1em;
+padding-right: 1em;
+}
+
+#titlebanner{
+background-color: #ffffff;
+text-align: center;
+border-radius: 25px;
+
+}
+
+.textblock{
+background-color: #ffffff;
+border-radius: 25px;
+margin-bottom: 1em;
+padding: 1em;
+white-space: pre-line;
+}
+
+a {
+color: #444444;
+font-weight: bolder;
+}
+
+a:visited {
+color: #999999;
+font-weight: bolder;
+}
+
+#title, #title:visited {
+color: #444444;
+text-decoration: none;
+}
