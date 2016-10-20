@@ -16,6 +16,7 @@ echo "<p>Hello, my name is $author. This page acts as a portfolio for my coding 
 <ul>
 <li><a href="/the_coin.php">The Coin</a></li>
 <li><a href="/the_dice.php">The Dice</a></li>
+<li><a href="/fizzbuzz.php">FizzBuzz</a></li>
 <li><a href="/form1.php">Simple form 1</a></li>
 <li><a href="/compatibility_test.php">Compatibility Test</a></li>
 </ul>

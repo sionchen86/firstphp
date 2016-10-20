@@ -8,6 +8,7 @@
 //using do/while, condition is checked last.
 do {
 	$dice = rand(1,6);
+
 	$dicerolls ++;
 	if ($dice ==6){
 		echo "<p>Congratulations! You threw a 6, you're so lucky! =D</p>";

@@ -5,6 +5,7 @@
 </div>
 <div class=textblock>
 <p>The verdict</p>
+<p>
 <?php
 $points1 = $_POST['question1'];
 $points2 = $_POST['question2'];
@@ -23,7 +24,7 @@ else{
 }
 
 ?>
-
+</p>
 <br>
 <a href="/compatibility_test.php">Try again?</a>
 </div>
