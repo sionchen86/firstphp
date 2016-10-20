@@ -21,6 +21,15 @@ border-radius: 25px;
 
 }
 
+#copyright{
+margin-bottom: 1em;
+background-color: #ffffff;
+border-radius: 25px;
+padding-left: 1em;
+padding-right: 1em;
+text-align: right;
+}
+
 .textblock{
 background-color: #ffffff;
 border-radius: 25px;

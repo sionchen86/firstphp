@@ -8,7 +8,7 @@
 	<meta name="author" content="Sion Chen">
 	
 	<link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="style.css?v=36">
+	<link rel="stylesheet" type="text/css" href="style.css?v=38">
 
 </head>
 

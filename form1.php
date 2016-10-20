@@ -22,8 +22,3 @@
 
 <?php include 'footer.php'; ?>
 
-
-// Something changed on the pc
-
-// Try to get this message back!
-

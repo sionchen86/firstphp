@@ -24,3 +24,6 @@ echo "<p>Hello, my name is $author. This page acts as a portfolio for my coding 
 </div>
 
 </body>
+<div id=copyright>
+© 2016 Sion Chen
+</div>
