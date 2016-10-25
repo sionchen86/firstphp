@@ -6,9 +6,11 @@
 <p>The following is a simple dice throwing program demonstrating the use of if/else and a do/while loop. A do/while loop checks the condition after each iteration, therefore it will execute at least once. If the result is one throw, the program will use singular words in the results message.</p>
 <?php
 //using do/while, condition is checked last.
+
+
 do {
 	$dice = rand(1,6);
-
+	$dicerolls = 0;
 	$dicerolls ++;
 	if ($dice ==6){
 		echo "<p>Congratulations! You threw a 6, you're so lucky! =D</p>";
