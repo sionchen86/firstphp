@@ -1,6 +1,6 @@
 <?php require VIEW_ROOT . '/templates/header.php'; ?>
 
-	<?php if (empty($pages)): ?>
+	<?php if (empty($pages)):?>
 		<p>Sorry, no pages at the moment.</p>
 	<?php else: ?>
 		<ul>
